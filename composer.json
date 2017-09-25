@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "description": "Test",
+  "type": "project",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.0.0",
+    "hoa/websocket": "~3.0"
+  }
+}

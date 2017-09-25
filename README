@@ -1,0 +1,7 @@
+1. composer install
+2. run server.php in console
+3. run client.php in console
+4. run another client.php in console.
+
+ER: client #1 is disconnected.
+AR: client #2 is disconnected with error.
